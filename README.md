@@ -3,8 +3,8 @@
 ```javascript
 const jason = {
   likes: ["to", "code"],
-  curr: [""],
-  prev: ["SP Group"],
+  curr: ["DBS"],
+  prev: ["SP Group, Starbucks"],
 }
 ```
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaecodes/)
